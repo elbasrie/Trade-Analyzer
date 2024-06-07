@@ -1,4 +1,4 @@
-# Crypto Trading Analizer With Python
+# Crypto Trading Analyzer With Python
 
 ## How To Use
 ```
